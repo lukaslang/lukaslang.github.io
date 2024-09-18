@@ -88,7 +88,7 @@ During winter term 2019, I was also an external lecturer at the <a href="https:/
 
 <article>
 <header><h1>Teaching & Outreach</h1></header>
-<p>In 2022, I was interviewed by <a href="https://schatten.info/" target="_blank">Alexander Schatten</a> on the 'Zukunft Denken' podcast on Data Science, Machine Learning, and AI. <a href="https://podcast.zukunft-denken.eu/e/053-data_science_lukas_lang-1/" target="_blank">Part 1</a> and <a href="https://podcast.zukunft-denken.eu/e/054-data_science_lukas_lang-2/" target="_blank">Part 2</a> (both in German).</p>
+<p>In 2022, I was interviewed by <a href="https://schatten.info/" target="_blank">Alexander Schatten</a> on the 'Zukunft Denken' podcast on Data Science, Machine Learning, and AI. We discussed basics, opportunities, and challenges. <a href="https://podcast.zukunft-denken.eu/e/053-data_science_lukas_lang-1/" target="_blank">Part 1</a> and <a href="https://podcast.zukunft-denken.eu/e/054-data_science_lukas_lang-2/" target="_blank">Part 2</a> (both in German).</p>
 
 <p>In 2020, <a href="https://derndorfer.eu/" target="_blank">Christoph Derndorfer-Medosch</a> and I were interviewed by <a href="https://schatten.info/" target="_blank">Alexander Schatten</a> on the 'Zukunft Denken' podcast on the topic of <a href="https://podcast.zukunft-denken.eu/e/020-offene-systeme-teil-2-gesprach-mit-lukas-lang-und-christoph-derndorfer/" target="_blank">Offene Systeme</a> (in German).</p>
 
