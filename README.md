@@ -17,6 +17,10 @@ bundle exec jekyll serve --force_polling
 ```
 6. Browse to [http://localhost:4000](http://localhost:4000)
 
+If you're running into problems on MacOS, see
+- [bundle exec jekyll serve not working locally](https://stackoverflow.com/questions/77851863/bundle-exec-jekyll-serve-not-working-locally)
+- [Ruby (Versioning) Hell with Jekyll & GitHub Pages](https://ritviknag.com/tech-tips/ruby-versioning-hell-with-jekyll-&-github-pages/)
+
 ## To-do
 
 * Adjust logo background to work with dark mode.
