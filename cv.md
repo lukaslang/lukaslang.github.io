@@ -88,6 +88,8 @@ During winter term 2019, I was also an external lecturer at the <a href="https:/
 
 <article>
 <header><h1>Teaching & Outreach</h1></header>
+<p>In 2022, I was interviewed by <a href="https://schatten.info/" target="_blank">Alexander Schatten</a> on the 'Zukunft Denken' podcast on Data Science, Machine Learning, and AI. <a href="https://podcast.zukunft-denken.eu/e/053-data_science_lukas_lang-1/" target="_blank">Part 1</a> and <a href="https://podcast.zukunft-denken.eu/e/054-data_science_lukas_lang-2/" target="_blank">Part 2</a> (both in German).</p>
+
 <p>In 2020, <a href="https://derndorfer.eu/" target="_blank">Christoph Derndorfer-Medosch</a> and I were interviewed by <a href="https://schatten.info/" target="_blank">Alexander Schatten</a> on the 'Zukunft Denken' podcast on the topic of <a href="https://podcast.zukunft-denken.eu/e/020-offene-systeme-teil-2-gesprach-mit-lukas-lang-und-christoph-derndorfer/" target="_blank">Offene Systeme</a> (in German).</p>
 
 <p>In 2019, jointly with Christoph Derndorfer-Medosch, I designed and held a new lecture course on <a href="https://free-and-open-technologies.github.io/" target="_blank">Free and Open Technologies</a> at TU Wien as part of the new master’s programme <a href="https://informatics.tuwien.ac.at/master/media-and-human-centered-computing/" target="_blank">Media and Human-Centered Computing</a>.  See also the official <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=2593&dsrid=293&courseNr=193067&semester=2019W" target="_blank">course page</a>.</p>
