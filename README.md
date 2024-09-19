@@ -17,7 +17,19 @@ bundle exec jekyll serve --force_polling
 ```
 6. Browse to [http://localhost:4000](http://localhost:4000)
 
-If you're running into problems on MacOS, see
+I ran into problems on MacOS Ventura 13.6.7. I was able to resolve it using Ruby 3.2.3 with `rbenv` and adding webrick:
+```bash
+rbenv install 3.2.3
+rbenv local 3.2.3
+gem install bundler jekyll
+bundle install
+bundle add webrick
+bundle exec jekyll build
+bundle exec jekyll serve --force_polling
+```
+See [Leap Day, 2024](https://www.opsmason.com/2024/02/29/Leap-Day.html) and [Jekyll serve fails on Ruby 3.0](https://github.com/jekyll/jekyll/issues/8523) for details.
+
+Also see:
 - [bundle exec jekyll serve not working locally](https://stackoverflow.com/questions/77851863/bundle-exec-jekyll-serve-not-working-locally)
 - [Ruby (Versioning) Hell with Jekyll & GitHub Pages](https://ritviknag.com/tech-tips/ruby-versioning-hell-with-jekyll-&-github-pages/)
 
