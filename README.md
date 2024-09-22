@@ -41,3 +41,7 @@ Also see:
 
 This page is based on the [Contrast](https://github.com/niklasbuschmann/contrast) Jekyll theme by Niklas Buschmann, which is [public domain](http://unlicense.org/).
 Many thanks, Niklas, for this headstart.
+
+This page kindly uses templates from [Cookie consent](https://jekyllcodex.org/without-plugin/cookie-consent/) Jekyll Codex, created by Joost van der Schee.
+
+It also kindly borrows code borrowed from Stackoverflow user Sankalp Sharma, licensed under CC BY-SA 4.0.
