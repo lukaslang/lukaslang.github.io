@@ -27,7 +27,7 @@ loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-9QWGM6GHNR', func
       'ad_user_data': 'denied',
       'ad_personalization': 'denied',
       'ad_storage': 'denied',
-      'analytics_storage': 'denied',
+      'analytics_storage': 'granted',
       'wait_for_update': 500,
     });
     gtag('js', new Date());
