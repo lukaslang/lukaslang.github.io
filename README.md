@@ -18,6 +18,12 @@ bundle exec jekyll serve --force_polling
 6. Browse to [http://localhost:4000](http://localhost:4000)
 
 I ran into problems on MacOS Ventura 13.6.7. I was able to resolve it using Ruby 3.2.3 with `rbenv` and adding webrick:
+
+```bash
+$ brew install rbenv ruby-build
+$ echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
+```
+
 ```bash
 rbenv install 3.2.3
 rbenv local 3.2.3
