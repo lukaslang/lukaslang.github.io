@@ -20,8 +20,8 @@ bundle exec jekyll serve --force_polling
 I ran into problems on MacOS Ventura 13.6.7. I was able to resolve it using Ruby 3.2.3 with `rbenv` and adding webrick:
 
 ```bash
-$ brew install rbenv ruby-build
-$ echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
+brew install rbenv ruby-build
+echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
 ```
 
 ```bash
