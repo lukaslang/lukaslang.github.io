@@ -6,8 +6,20 @@ layout: page
 
 <article>
 <div class="bibliography">
+        <div class="item">
+        <div class="timespan">since 2026</div>
+        <div class="pic">
+            <div class="dot"></div>
+            <div class="logo">
+                <img src="/assets/images/voestalpine-logo.png" />
+            </div>
+        </div>
+        <div class="desc">
+<b>Data & AI Manager</b> at <a href="https://www.voestalpine.com/highperformancemetals/" target="_blank">voestalpine High Performance Metals Division</a> in Vienna, Austria, where I report to the Head of Strategic IT-Management.
+        </div>
+        </div>
     <div class="item">
-        <div class="timespan">since 2021</div>
+        <div class="timespan">2021–2025</div>
         <div class="pic">
             <div class="dot"></div>
             <div class="logo">
@@ -15,14 +27,7 @@ layout: page
             </div>
         </div>
         <div class="desc">
-I am <b>Head of Data Science and AI</b> at <a href="https://www.voestalpine.com/highperformancemetals/en/digitalsolutions/" target="_blank">voestalpine High Performance Metals DIGITAL SOLUTIONS</a> in Vienna, Austria.
-My responsibilities include:
-<ul style="margin: 0;">
-    <li style="margin: 0;">Strategic guidance of divisional data science and AI initiatives,</li>
-    <li style="margin: 0;">Technical steering of the divisional big data platform,</li>
-    <li style="margin: 0;">Leading a team that builds & ships data products, and</li>
-    <li style="margin: 0;">Training of experts across our division.</li>
-</ul>
+<b>Head of Data Science and AI</b> at <a href="https://www.voestalpine.com/highperformancemetals/en/digitalsolutions/" target="_blank">voestalpine High Performance Metals DIGITAL SOLUTIONS</a> in Vienna, Austria.
         </div>
     </div>
     <div class="item">
