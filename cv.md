@@ -15,7 +15,7 @@ layout: page
             </div>
         </div>
         <div class="desc">
-<b>Data & AI Manager</b> at <a href="https://www.voestalpine.com/highperformancemetals/" target="_blank">voestalpine High Performance Metals Division</a> and <b>Head of Data-Driven Optimization</b> in Vienna, Austria, where I report to the Divisional CIO.
+<b>Data & AI Manager</b> at <a href="https://www.voestalpine.com/highperformancemetals/en-gl/" target="_blank">voestalpine High Performance Metals Division</a> in Vienna, Austria, where I report to the Divisional CIO.
         </div>
         </div>
     <div class="item">
